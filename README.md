@@ -1,3 +1,8 @@
+## Live Demo
+
+Try the AI Resume Analyzer here:
+
+https://ai-resume-analyzer-d8hcejjg6il6x7ba79jqpx.streamlit.app/
 # AI Resume Analyzer
 
 A **beginner-friendly** web app that compares your resume to a job description and shows:
